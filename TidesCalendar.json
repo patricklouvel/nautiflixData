@@ -1,0 +1,2739 @@
+[
+    {
+      "date": "01/11/2024",
+      "tides": [
+        {
+          "time": "01h52",
+          "height": 2.24
+        },
+        {
+          "time": "07h00",
+          "height": 12.13
+        },
+        {
+          "time": "14h07",
+          "height": 2.21
+        },
+        {
+          "time": "19h14",
+          "height": 12.2
+        }
+      ],
+      "coefficient": [
+        81,
+        82
+      ]
+    },
+    {
+      "date": "02/11/2024",
+      "tides": [
+        {
+          "time": "02h26",
+          "height": 2.17
+        },
+        {
+          "time": "07h30",
+          "height": 12.28
+        },
+        {
+          "time": "14h41",
+          "height": 2.17
+        },
+        {
+          "time": "19h45",
+          "height": 12.23
+        }
+      ],
+      "coefficient": [
+        82,
+        82
+      ]
+    },
+    {
+      "date": "03/11/2024",
+      "tides": [
+        {
+          "time": "02h56",
+          "height": 2.27
+        },
+        {
+          "time": "08h00",
+          "height": 12.28
+        },
+        {
+          "time": "15h11",
+          "height": 2.27
+        },
+        {
+          "time": "20h15",
+          "height": 12.1
+        }
+      ],
+      "coefficient": [
+        81,
+        80
+      ]
+    },
+    {
+      "date": "04/11/2024",
+      "tides": [
+        {
+          "time": "03h24",
+          "height": 2.52
+        },
+        {
+          "time": "08h28",
+          "height": 12.12
+        },
+        {
+          "time": "15h40",
+          "height": 2.52
+        },
+        {
+          "time": "20h44",
+          "height": 11.82
+        }
+      ],
+      "coefficient": [
+        78,
+        75
+      ]
+    },
+    {
+      "date": "05/11/2024",
+      "tides": [
+        {
+          "time": "03h50",
+          "height": 2.88
+        },
+        {
+          "time": "08h56",
+          "height": 11.82
+        },
+        {
+          "time": "16h09",
+          "height": 2.91
+        },
+        {
+          "time": "21h15",
+          "height": 11.38
+        }
+      ],
+      "coefficient": [
+        72,
+        68
+      ]
+    },
+    {
+      "date": "06/11/2024",
+      "tides": [
+        {
+          "time": "04h17",
+          "height": 3.36
+        },
+        {
+          "time": "09h26",
+          "height": 11.34
+        },
+        {
+          "time": "16h40",
+          "height": 3.44
+        },
+        {
+          "time": "21h49",
+          "height": 10.79
+        }
+      ],
+      "coefficient": [
+        64,
+        59
+      ]
+    },
+    {
+      "date": "07/11/2024",
+      "tides": [
+        {
+          "time": "04h47",
+          "height": 3.93
+        },
+        {
+          "time": "10h01",
+          "height": 10.71
+        },
+        {
+          "time": "17h17",
+          "height": 4.02
+        },
+        {
+          "time": "22h31",
+          "height": 10.11
+        }
+      ],
+      "coefficient": [
+        54,
+        49
+      ]
+    },
+    {
+      "date": "08/11/2024",
+      "tides": [
+        {
+          "time": "05h25",
+          "height": 4.52
+        },
+        {
+          "time": "10h49",
+          "height": 10
+        },
+        {
+          "time": "18h07",
+          "height": 4.55
+        },
+        {
+          "time": "23h31",
+          "height": 9.45
+        }
+      ],
+      "coefficient": [
+        45,
+        42
+      ]
+    },
+    {
+      "date": "09/11/2024",
+      "tides": [
+        {
+          "time": "06h24",
+          "height": 5.02
+        },
+        {
+          "time": "12h01",
+          "height": 9.4
+        },
+        {
+          "time": "19h17",
+          "height": 4.84
+        }
+      ],
+      "coefficient": [
+        40
+      ]
+    },
+    {
+      "date": "10/11/2024",
+      "tides": [
+        {
+          "time": "00h59",
+          "height": 9.12
+        },
+        {
+          "time": "07h49",
+          "height": 5.18
+        },
+        {
+          "time": "13h45",
+          "height": 9.31
+        },
+        {
+          "time": "20h45",
+          "height": 4.62
+        }
+      ],
+      "coefficient": [
+        40,
+        43
+      ]
+    },
+    {
+      "date": "11/11/2024",
+      "tides": [
+        {
+          "time": "02h39",
+          "height": 9.43
+        },
+        {
+          "time": "09h24",
+          "height": 4.7
+        },
+        {
+          "time": "15h14",
+          "height": 9.91
+        },
+        {
+          "time": "22h06",
+          "height": 3.89
+        }
+      ],
+      "coefficient": [
+        48,
+        54
+      ]
+    },
+    {
+      "date": "12/11/2024",
+      "tides": [
+        {
+          "time": "03h51",
+          "height": 10.25
+        },
+        {
+          "time": "10h40",
+          "height": 3.81
+        },
+        {
+          "time": "16h18",
+          "height": 10.82
+        },
+        {
+          "time": "23h14",
+          "height": 3
+        }
+      ],
+      "coefficient": [
+        61,
+        69
+      ]
+    },
+    {
+      "date": "13/11/2024",
+      "tides": [
+        {
+          "time": "04h47",
+          "height": 11.21
+        },
+        {
+          "time": "11h44",
+          "height": 2.88
+        },
+        {
+          "time": "17h11",
+          "height": 11.78
+        }
+      ],
+      "coefficient": [
+        76,
+        83
+      ]
+    },
+    {
+      "date": "14/11/2024",
+      "tides": [
+        {
+          "time": "00h16",
+          "height": 2.19
+        },
+        {
+          "time": "05h37",
+          "height": 12.1
+        },
+        {
+          "time": "12h44",
+          "height": 2.11
+        },
+        {
+          "time": "18h01",
+          "height": 12.56
+        }
+      ],
+      "coefficient": [
+        89,
+        94
+      ]
+    },
+    {
+      "date": "15/11/2024",
+      "tides": [
+        {
+          "time": "01h14",
+          "height": 1.59
+        },
+        {
+          "time": "06h24",
+          "height": 12.76
+        },
+        {
+          "time": "13h41",
+          "height": 1.55
+        },
+        {
+          "time": "18h48",
+          "height": 13.06
+        }
+      ],
+      "coefficient": [
+        98,
+        101
+      ]
+    },
+    {
+      "date": "16/11/2024",
+      "tides": [
+        {
+          "time": "02h07",
+          "height": 1.27
+        },
+        {
+          "time": "07h09",
+          "height": 13.12
+        },
+        {
+          "time": "14h33",
+          "height": 1.29
+        },
+        {
+          "time": "19h35",
+          "height": 13.2
+        }
+      ],
+      "coefficient": [
+        102,
+        102
+      ]
+    },
+    {
+      "date": "17/11/2024",
+      "tides": [
+        {
+          "time": "02h54",
+          "height": 1.29
+        },
+        {
+          "time": "07h53",
+          "height": 13.16
+        },
+        {
+          "time": "15h19",
+          "height": 1.35
+        },
+        {
+          "time": "20h20",
+          "height": 12.99
+        }
+      ],
+      "coefficient": [
+        101,
+        98
+      ]
+    },
+    {
+      "date": "18/11/2024",
+      "tides": [
+        {
+          "time": "03h35",
+          "height": 1.64
+        },
+        {
+          "time": "08h34",
+          "height": 12.89
+        },
+        {
+          "time": "16h00",
+          "height": 1.73
+        },
+        {
+          "time": "21h03",
+          "height": 12.47
+        }
+      ],
+      "coefficient": [
+        94,
+        89
+      ]
+    },
+    {
+      "date": "19/11/2024",
+      "tides": [
+        {
+          "time": "04h12",
+          "height": 2.26
+        },
+        {
+          "time": "09h16",
+          "height": 12.36
+        },
+        {
+          "time": "16h38",
+          "height": 2.35
+        },
+        {
+          "time": "21h46",
+          "height": 11.72
+        }
+      ],
+      "coefficient": [
+        83,
+        77
+      ]
+    },
+    {
+      "date": "20/11/2024",
+      "tides": [
+        {
+          "time": "04h46",
+          "height": 3.03
+        },
+        {
+          "time": "09h58",
+          "height": 11.63
+        },
+        {
+          "time": "17h16",
+          "height": 3.13
+        },
+        {
+          "time": "22h31",
+          "height": 10.86
+        }
+      ],
+      "coefficient": [
+        71,
+        64
+      ]
+    },
+    {
+      "date": "21/11/2024",
+      "tides": [
+        {
+          "time": "05h20",
+          "height": 3.85
+        },
+        {
+          "time": "10h42",
+          "height": 10.79
+        },
+        {
+          "time": "17h55",
+          "height": 3.93
+        },
+        {
+          "time": "23h20",
+          "height": 10.02
+        }
+      ],
+      "coefficient": [
+        57,
+        51
+      ]
+    },
+    {
+      "date": "22/11/2024",
+      "tides": [
+        {
+          "time": "06h00",
+          "height": 4.6
+        },
+        {
+          "time": "11h33",
+          "height": 9.98
+        },
+        {
+          "time": "18h42",
+          "height": 4.62
+        }
+      ],
+      "coefficient": [
+        46
+      ]
+    },
+    {
+      "date": "23/11/2024",
+      "tides": [
+        {
+          "time": "00h18",
+          "height": 9.34
+        },
+        {
+          "time": "06h54",
+          "height": 5.15
+        },
+        {
+          "time": "12h37",
+          "height": 9.37
+        },
+        {
+          "time": "19h44",
+          "height": 5.04
+        }
+      ],
+      "coefficient": [
+        42,
+        39
+      ]
+    },
+    {
+      "date": "24/11/2024",
+      "tides": [
+        {
+          "time": "01h28",
+          "height": 9
+        },
+        {
+          "time": "08h08",
+          "height": 5.34
+        },
+        {
+          "time": "13h54",
+          "height": 9.15
+        },
+        {
+          "time": "20h56",
+          "height": 5.05
+        }
+      ],
+      "coefficient": [
+        38,
+        38
+      ]
+    },
+    {
+      "date": "25/11/2024",
+      "tides": [
+        {
+          "time": "02h42",
+          "height": 9.09
+        },
+        {
+          "time": "09h22",
+          "height": 5.09
+        },
+        {
+          "time": "15h05",
+          "height": 9.35
+        },
+        {
+          "time": "22h00",
+          "height": 4.7
+        }
+      ],
+      "coefficient": [
+        39,
+        42
+      ]
+    },
+    {
+      "date": "26/11/2024",
+      "tides": [
+        {
+          "time": "03h42",
+          "height": 9.51
+        },
+        {
+          "time": "10h23",
+          "height": 4.58
+        },
+        {
+          "time": "16h00",
+          "height": 9.82
+        },
+        {
+          "time": "22h54",
+          "height": 4.18
+        }
+      ],
+      "coefficient": [
+        45,
+        49
+      ]
+    },
+    {
+      "date": "27/11/2024",
+      "tides": [
+        {
+          "time": "04h31",
+          "height": 10.11
+        },
+        {
+          "time": "11h16",
+          "height": 3.99
+        },
+        {
+          "time": "16h46",
+          "height": 10.38
+        },
+        {
+          "time": "23h44",
+          "height": 3.63
+        }
+      ],
+      "coefficient": [
+        53,
+        57
+      ]
+    },
+    {
+      "date": "28/11/2024",
+      "tides": [
+        {
+          "time": "05h12",
+          "height": 10.73
+        },
+        {
+          "time": "12h05",
+          "height": 3.44
+        },
+        {
+          "time": "17h28",
+          "height": 10.93
+        }
+      ],
+      "coefficient": [
+        60,
+        64
+      ]
+    },
+    {
+      "date": "29/11/2024",
+      "tides": [
+        {
+          "time": "00h30",
+          "height": 3.18
+        },
+        {
+          "time": "05h51",
+          "height": 11.27
+        },
+        {
+          "time": "12h51",
+          "height": 3.01
+        },
+        {
+          "time": "18h07",
+          "height": 11.35
+        }
+      ],
+      "coefficient": [
+        67,
+        70
+      ]
+    },
+    {
+      "date": "30/11/2024",
+      "tides": [
+        {
+          "time": "01h14",
+          "height": 2.87
+        },
+        {
+          "time": "06h28",
+          "height": 11.67
+        },
+        {
+          "time": "13h33",
+          "height": 2.73
+        },
+        {
+          "time": "18h46",
+          "height": 11.62
+        }
+      ],
+      "coefficient": [
+        72,
+        74
+      ]
+    },
+    {
+      "date": "01/12/2024",
+      "tides": [
+        {
+          "time": "01h54",
+          "height": 2.72
+        },
+        {
+          "time": "07h04",
+          "height": 11.91
+        },
+        {
+          "time": "14h12",
+          "height": 2.58
+        },
+        {
+          "time": "19h22",
+          "height": 11.74
+        }
+      ],
+      "coefficient": [
+        75,
+        76
+      ]
+    },
+    {
+      "date": "02/12/2024",
+      "tides": [
+        {
+          "time": "02h29",
+          "height": 2.71
+        },
+        {
+          "time": "07h38",
+          "height": 11.99
+        },
+        {
+          "time": "14h49",
+          "height": 2.56
+        },
+        {
+          "time": "19h58",
+          "height": 11.73
+        }
+      ],
+      "coefficient": [
+        77,
+        77
+      ]
+    },
+    {
+      "date": "03/12/2024",
+      "tides": [
+        {
+          "time": "03h03",
+          "height": 2.8
+        },
+        {
+          "time": "08h12",
+          "height": 11.95
+        },
+        {
+          "time": "15h24",
+          "height": 2.64
+        },
+        {
+          "time": "20h34",
+          "height": 11.61
+        }
+      ],
+      "coefficient": [
+        76,
+        75
+      ]
+    },
+    {
+      "date": "04/12/2024",
+      "tides": [
+        {
+          "time": "03h36",
+          "height": 2.97
+        },
+        {
+          "time": "08h46",
+          "height": 11.79
+        },
+        {
+          "time": "16h01",
+          "height": 2.83
+        },
+        {
+          "time": "21h11",
+          "height": 11.38
+        }
+      ],
+      "coefficient": [
+        74,
+        72
+      ]
+    },
+    {
+      "date": "05/12/2024",
+      "tides": [
+        {
+          "time": "04h11",
+          "height": 3.23
+        },
+        {
+          "time": "09h24",
+          "height": 11.51
+        },
+        {
+          "time": "16h40",
+          "height": 3.11
+        },
+        {
+          "time": "21h52",
+          "height": 11.03
+        }
+      ],
+      "coefficient": [
+        69,
+        67
+      ]
+    },
+    {
+      "date": "06/12/2024",
+      "tides": [
+        {
+          "time": "04h50",
+          "height": 3.57
+        },
+        {
+          "time": "10h07",
+          "height": 11.1
+        },
+        {
+          "time": "17h23",
+          "height": 3.47
+        },
+        {
+          "time": "22h38",
+          "height": 10.61
+        }
+      ],
+      "coefficient": [
+        64,
+        61
+      ]
+    },
+    {
+      "date": "07/12/2024",
+      "tides": [
+        {
+          "time": "05h34",
+          "height": 3.95
+        },
+        {
+          "time": "10h56",
+          "height": 10.64
+        },
+        {
+          "time": "18h11",
+          "height": 3.8
+        },
+        {
+          "time": "23h31",
+          "height": 10.2
+        }
+      ],
+      "coefficient": [
+        58,
+        55
+      ]
+    },
+    {
+      "date": "08/12/2024",
+      "tides": [
+        {
+          "time": "06h27",
+          "height": 4.27
+        },
+        {
+          "time": "11h54",
+          "height": 10.25
+        },
+        {
+          "time": "19h07",
+          "height": 4.01
+        }
+      ],
+      "coefficient": [
+        54
+      ]
+    },
+    {
+      "date": "09/12/2024",
+      "tides": [
+        {
+          "time": "00h34",
+          "height": 9.93
+        },
+        {
+          "time": "07h30",
+          "height": 4.43
+        },
+        {
+          "time": "13h04",
+          "height": 10.06
+        },
+        {
+          "time": "20h11",
+          "height": 4.03
+        }
+      ],
+      "coefficient": [
+        53,
+        53
+      ]
+    },
+    {
+      "date": "10/12/2024",
+      "tides": [
+        {
+          "time": "01h47",
+          "height": 9.94
+        },
+        {
+          "time": "08h41",
+          "height": 4.32
+        },
+        {
+          "time": "14h21",
+          "height": 10.2
+        },
+        {
+          "time": "21h21",
+          "height": 3.82
+        }
+      ],
+      "coefficient": [
+        54,
+        56
+      ]
+    },
+    {
+      "date": "11/12/2024",
+      "tides": [
+        {
+          "time": "03h01",
+          "height": 10.28
+        },
+        {
+          "time": "09h55",
+          "height": 3.95
+        },
+        {
+          "time": "15h33",
+          "height": 10.65
+        },
+        {
+          "time": "22h32",
+          "height": 3.42
+        }
+      ],
+      "coefficient": [
+        60,
+        64
+      ]
+    },
+    {
+      "date": "12/12/2024",
+      "tides": [
+        {
+          "time": "04h07",
+          "height": 10.85
+        },
+        {
+          "time": "11h07",
+          "height": 3.41
+        },
+        {
+          "time": "16h37",
+          "height": 11.23
+        },
+        {
+          "time": "23h41",
+          "height": 2.93
+        }
+      ],
+      "coefficient": [
+        68,
+        72
+      ]
+    },
+    {
+      "date": "13/12/2024",
+      "tides": [
+        {
+          "time": "05h07",
+          "height": 11.48
+        },
+        {
+          "time": "12h14",
+          "height": 2.83
+        },
+        {
+          "time": "17h36",
+          "height": 11.78
+        }
+      ],
+      "coefficient": [
+        77,
+        80
+      ]
+    },
+    {
+      "date": "14/12/2024",
+      "tides": [
+        {
+          "time": "00h45",
+          "height": 2.49
+        },
+        {
+          "time": "06h01",
+          "height": 12.03
+        },
+        {
+          "time": "13h16",
+          "height": 2.35
+        },
+        {
+          "time": "18h31",
+          "height": 12.17
+        }
+      ],
+      "coefficient": [
+        84,
+        86
+      ]
+    },
+    {
+      "date": "15/12/2024",
+      "tides": [
+        {
+          "time": "01h41",
+          "height": 2.2
+        },
+        {
+          "time": "06h52",
+          "height": 12.39
+        },
+        {
+          "time": "14h11",
+          "height": 2.05
+        },
+        {
+          "time": "19h23",
+          "height": 12.34
+        }
+      ],
+      "coefficient": [
+        88,
+        89
+      ]
+    },
+    {
+      "date": "16/12/2024",
+      "tides": [
+        {
+          "time": "02h32",
+          "height": 2.13
+        },
+        {
+          "time": "07h40",
+          "height": 12.53
+        },
+        {
+          "time": "15h01",
+          "height": 1.97
+        },
+        {
+          "time": "20h11",
+          "height": 12.29
+        }
+      ],
+      "coefficient": [
+        89,
+        89
+      ]
+    },
+    {
+      "date": "17/12/2024",
+      "tides": [
+        {
+          "time": "03h16",
+          "height": 2.27
+        },
+        {
+          "time": "08h24",
+          "height": 12.45
+        },
+        {
+          "time": "15h45",
+          "height": 2.12
+        },
+        {
+          "time": "20h56",
+          "height": 12.04
+        }
+      ],
+      "coefficient": [
+        87,
+        85
+      ]
+    },
+    {
+      "date": "18/12/2024",
+      "tides": [
+        {
+          "time": "03h56",
+          "height": 2.57
+        },
+        {
+          "time": "09h06",
+          "height": 12.19
+        },
+        {
+          "time": "16h25",
+          "height": 2.45
+        },
+        {
+          "time": "21h38",
+          "height": 11.65
+        }
+      ],
+      "coefficient": [
+        82,
+        79
+      ]
+    },
+    {
+      "date": "19/12/2024",
+      "tides": [
+        {
+          "time": "04h32",
+          "height": 2.99
+        },
+        {
+          "time": "09h46",
+          "height": 11.76
+        },
+        {
+          "time": "17h03",
+          "height": 2.92
+        },
+        {
+          "time": "22h17",
+          "height": 11.15
+        }
+      ],
+      "coefficient": [
+        75,
+        71
+      ]
+    },
+    {
+      "date": "20/12/2024",
+      "tides": [
+        {
+          "time": "05h06",
+          "height": 3.47
+        },
+        {
+          "time": "10h25",
+          "height": 11.22
+        },
+        {
+          "time": "17h37",
+          "height": 3.47
+        },
+        {
+          "time": "22h56",
+          "height": 10.6
+        }
+      ],
+      "coefficient": [
+        66,
+        62
+      ]
+    },
+    {
+      "date": "21/12/2024",
+      "tides": [
+        {
+          "time": "05h39",
+          "height": 3.96
+        },
+        {
+          "time": "11h03",
+          "height": 10.63
+        },
+        {
+          "time": "18h10",
+          "height": 4
+        },
+        {
+          "time": "23h33",
+          "height": 10.07
+        }
+      ],
+      "coefficient": [
+        57,
+        52
+      ]
+    },
+    {
+      "date": "22/12/2024",
+      "tides": [
+        {
+          "time": "06h14",
+          "height": 4.4
+        },
+        {
+          "time": "11h42",
+          "height": 10.07
+        },
+        {
+          "time": "18h46",
+          "height": 4.45
+        }
+      ],
+      "coefficient": [
+        48
+      ]
+    },
+    {
+      "date": "23/12/2024",
+      "tides": [
+        {
+          "time": "00h14",
+          "height": 9.62
+        },
+        {
+          "time": "06h56",
+          "height": 4.75
+        },
+        {
+          "time": "12h27",
+          "height": 9.63
+        },
+        {
+          "time": "19h29",
+          "height": 4.76
+        }
+      ],
+      "coefficient": [
+        44,
+        41
+      ]
+    },
+    {
+      "date": "24/12/2024",
+      "tides": [
+        {
+          "time": "01h04",
+          "height": 9.32
+        },
+        {
+          "time": "07h49",
+          "height": 4.97
+        },
+        {
+          "time": "13h25",
+          "height": 9.35
+        },
+        {
+          "time": "20h25",
+          "height": 4.9
+        }
+      ],
+      "coefficient": [
+        39,
+        37
+      ]
+    },
+    {
+      "date": "25/12/2024",
+      "tides": [
+        {
+          "time": "02h09",
+          "height": 9.25
+        },
+        {
+          "time": "08h55",
+          "height": 4.99
+        },
+        {
+          "time": "14h35",
+          "height": 9.34
+        },
+        {
+          "time": "21h33",
+          "height": 4.83
+        }
+      ],
+      "coefficient": [
+        37,
+        38
+      ]
+    },
+    {
+      "date": "26/12/2024",
+      "tides": [
+        {
+          "time": "03h19",
+          "height": 9.48
+        },
+        {
+          "time": "10h07",
+          "height": 4.74
+        },
+        {
+          "time": "15h44",
+          "height": 9.61
+        },
+        {
+          "time": "22h43",
+          "height": 4.53
+        }
+      ],
+      "coefficient": [
+        40,
+        43
+      ]
+    },
+    {
+      "date": "27/12/2024",
+      "tides": [
+        {
+          "time": "04h21",
+          "height": 9.94
+        },
+        {
+          "time": "11h14",
+          "height": 4.28
+        },
+        {
+          "time": "16h44",
+          "height": 10.07
+        },
+        {
+          "time": "23h45",
+          "height": 4.08
+        }
+      ],
+      "coefficient": [
+        46,
+        50
+      ]
+    },
+    {
+      "date": "28/12/2024",
+      "tides": [
+        {
+          "time": "05h14",
+          "height": 10.5
+        },
+        {
+          "time": "12h12",
+          "height": 3.76
+        },
+        {
+          "time": "17h36",
+          "height": 10.55
+        }
+      ],
+      "coefficient": [
+        54,
+        58
+      ]
+    },
+    {
+      "date": "29/12/2024",
+      "tides": [
+        {
+          "time": "00h39",
+          "height": 3.64
+        },
+        {
+          "time": "06h01",
+          "height": 11.02
+        },
+        {
+          "time": "13h02",
+          "height": 3.29
+        },
+        {
+          "time": "18h24",
+          "height": 10.98
+        }
+      ],
+      "coefficient": [
+        62,
+        66
+      ]
+    },
+    {
+      "date": "30/12/2024",
+      "tides": [
+        {
+          "time": "01h26",
+          "height": 3.28
+        },
+        {
+          "time": "06h44",
+          "height": 11.43
+        },
+        {
+          "time": "13h49",
+          "height": 2.93
+        },
+        {
+          "time": "19h08",
+          "height": 11.32
+        }
+      ],
+      "coefficient": [
+        69,
+        72
+      ]
+    },
+    {
+      "date": "31/12/2024",
+      "tides": [
+        {
+          "time": "02h09",
+          "height": 3.01
+        },
+        {
+          "time": "07h25",
+          "height": 11.74
+        },
+        {
+          "time": "14h33",
+          "height": 2.65
+        },
+        {
+          "time": "19h50",
+          "height": 11.56
+        }
+      ],
+      "coefficient": [
+        75,
+        78
+      ]
+    },
+    {
+      "date": "01/01/2025",
+      "tides": [
+        {
+          "time": "02h51",
+          "height": 2.81
+        },
+        {
+          "time": "08h05",
+          "height": 11.96
+        },
+        {
+          "time": "15h17",
+          "height": 2.45
+        },
+        {
+          "time": "20h31",
+          "height": 11.72
+        }
+      ],
+      "coefficient": [
+        80,
+        81
+      ]
+    },
+    {
+      "date": "02/01/2025",
+      "tides": [
+        {
+          "time": "03h32",
+          "height": 2.67
+        },
+        {
+          "time": "08h45",
+          "height": 12.08
+        },
+        {
+          "time": "16h00",
+          "height": 2.33
+        },
+        {
+          "time": "21h12",
+          "height": 11.78
+        }
+      ],
+      "coefficient": [
+        82,
+        83
+      ]
+    },
+    {
+      "date": "03/01/2025",
+      "tides": [
+        {
+          "time": "04h14",
+          "height": 2.63
+        },
+        {
+          "time": "09h26",
+          "height": 12.07
+        },
+        {
+          "time": "16h43",
+          "height": 2.33
+        },
+        {
+          "time": "21h53",
+          "height": 11.72
+        }
+      ],
+      "coefficient": [
+        82,
+        81
+      ]
+    },
+    {
+      "date": "04/01/2025",
+      "tides": [
+        {
+          "time": "04h55",
+          "height": 2.72
+        },
+        {
+          "time": "10h08",
+          "height": 11.91
+        },
+        {
+          "time": "17h25",
+          "height": 2.47
+        },
+        {
+          "time": "22h35",
+          "height": 11.51
+        }
+      ],
+      "coefficient": [
+        80,
+        78
+      ]
+    },
+    {
+      "date": "05/01/2025",
+      "tides": [
+        {
+          "time": "05h36",
+          "height": 2.95
+        },
+        {
+          "time": "10h50",
+          "height": 11.61
+        },
+        {
+          "time": "18h06",
+          "height": 2.76
+        },
+        {
+          "time": "23h18",
+          "height": 11.18
+        }
+      ],
+      "coefficient": [
+        75,
+        72
+      ]
+    },
+    {
+      "date": "06/01/2025",
+      "tides": [
+        {
+          "time": "06h17",
+          "height": 3.29
+        },
+        {
+          "time": "11h36",
+          "height": 11.2
+        },
+        {
+          "time": "18h49",
+          "height": 3.14
+        }
+      ],
+      "coefficient": [
+        68
+      ]
+    },
+    {
+      "date": "07/01/2025",
+      "tides": [
+        {
+          "time": "00h05",
+          "height": 10.79
+        },
+        {
+          "time": "07h04",
+          "height": 3.67
+        },
+        {
+          "time": "12h28",
+          "height": 10.77
+        },
+        {
+          "time": "19h37",
+          "height": 3.55
+        }
+      ],
+      "coefficient": [
+        64,
+        61
+      ]
+    },
+    {
+      "date": "08/01/2025",
+      "tides": [
+        {
+          "time": "01h01",
+          "height": 10.43
+        },
+        {
+          "time": "07h59",
+          "height": 4.01
+        },
+        {
+          "time": "13h32",
+          "height": 10.4
+        },
+        {
+          "time": "20h35",
+          "height": 3.89
+        }
+      ],
+      "coefficient": [
+        58,
+        55
+      ]
+    },
+    {
+      "date": "09/01/2025",
+      "tides": [
+        {
+          "time": "02h10",
+          "height": 10.19
+        },
+        {
+          "time": "09h09",
+          "height": 4.2
+        },
+        {
+          "time": "14h50",
+          "height": 10.24
+        },
+        {
+          "time": "21h48",
+          "height": 4.03
+        }
+      ],
+      "coefficient": [
+        54,
+        54
+      ]
+    },
+    {
+      "date": "10/01/2025",
+      "tides": [
+        {
+          "time": "03h30",
+          "height": 10.26
+        },
+        {
+          "time": "10h33",
+          "height": 4.07
+        },
+        {
+          "time": "16h13",
+          "height": 10.43
+        },
+        {
+          "time": "23h11",
+          "height": 3.83
+        }
+      ],
+      "coefficient": [
+        55,
+        58
+      ]
+    },
+    {
+      "date": "11/01/2025",
+      "tides": [
+        {
+          "time": "04h47",
+          "height": 10.67
+        },
+        {
+          "time": "11h54",
+          "height": 3.61
+        },
+        {
+          "time": "17h25",
+          "height": 10.86
+        }
+      ],
+      "coefficient": [
+        61,
+        65
+      ]
+    },
+    {
+      "date": "12/01/2025",
+      "tides": [
+        {
+          "time": "00h25",
+          "height": 3.4
+        },
+        {
+          "time": "05h52",
+          "height": 11.23
+        },
+        {
+          "time": "13h02",
+          "height": 3.04
+        },
+        {
+          "time": "18h26",
+          "height": 11.35
+        }
+      ],
+      "coefficient": [
+        69,
+        74
+      ]
+    },
+    {
+      "date": "13/01/2025",
+      "tides": [
+        {
+          "time": "01h27",
+          "height": 2.96
+        },
+        {
+          "time": "06h47",
+          "height": 11.75
+        },
+        {
+          "time": "14h01",
+          "height": 2.56
+        },
+        {
+          "time": "19h19",
+          "height": 11.74
+        }
+      ],
+      "coefficient": [
+        77,
+        81
+      ]
+    },
+    {
+      "date": "14/01/2025",
+      "tides": [
+        {
+          "time": "02h20",
+          "height": 2.64
+        },
+        {
+          "time": "07h35",
+          "height": 12.11
+        },
+        {
+          "time": "14h52",
+          "height": 2.27
+        },
+        {
+          "time": "20h06",
+          "height": 11.96
+        }
+      ],
+      "coefficient": [
+        83,
+        85
+      ]
+    },
+    {
+      "date": "15/01/2025",
+      "tides": [
+        {
+          "time": "03h06",
+          "height": 2.48
+        },
+        {
+          "time": "08h16",
+          "height": 12.28
+        },
+        {
+          "time": "15h35",
+          "height": 2.16
+        },
+        {
+          "time": "20h45",
+          "height": 12.01
+        }
+      ],
+      "coefficient": [
+        86,
+        86
+      ]
+    },
+    {
+      "date": "16/01/2025",
+      "tides": [
+        {
+          "time": "03h45",
+          "height": 2.45
+        },
+        {
+          "time": "08h54",
+          "height": 12.29
+        },
+        {
+          "time": "16h12",
+          "height": 2.22
+        },
+        {
+          "time": "21h21",
+          "height": 11.92
+        }
+      ],
+      "coefficient": [
+        86,
+        85
+      ]
+    },
+    {
+      "date": "17/01/2025",
+      "tides": [
+        {
+          "time": "04h19",
+          "height": 2.54
+        },
+        {
+          "time": "09h28",
+          "height": 12.14
+        },
+        {
+          "time": "16h44",
+          "height": 2.44
+        },
+        {
+          "time": "21h53",
+          "height": 11.69
+        }
+      ],
+      "coefficient": [
+        83,
+        80
+      ]
+    },
+    {
+      "date": "18/01/2025",
+      "tides": [
+        {
+          "time": "04h48",
+          "height": 2.75
+        },
+        {
+          "time": "10h00",
+          "height": 11.84
+        },
+        {
+          "time": "17h12",
+          "height": 2.8
+        },
+        {
+          "time": "22h23",
+          "height": 11.34
+        }
+      ],
+      "coefficient": [
+        76,
+        72
+      ]
+    },
+    {
+      "date": "19/01/2025",
+      "tides": [
+        {
+          "time": "05h14",
+          "height": 3.09
+        },
+        {
+          "time": "10h29",
+          "height": 11.42
+        },
+        {
+          "time": "17h35",
+          "height": 3.24
+        },
+        {
+          "time": "22h50",
+          "height": 10.9
+        }
+      ],
+      "coefficient": [
+        68,
+        63
+      ]
+    },
+    {
+      "date": "20/01/2025",
+      "tides": [
+        {
+          "time": "05h38",
+          "height": 3.51
+        },
+        {
+          "time": "10h56",
+          "height": 10.91
+        },
+        {
+          "time": "17h58",
+          "height": 3.71
+        },
+        {
+          "time": "23h17",
+          "height": 10.43
+        }
+      ],
+      "coefficient": [
+        59,
+        53
+      ]
+    },
+    {
+      "date": "21/01/2025",
+      "tides": [
+        {
+          "time": "06h05",
+          "height": 3.98
+        },
+        {
+          "time": "11h26",
+          "height": 10.38
+        },
+        {
+          "time": "18h27",
+          "height": 4.19
+        },
+        {
+          "time": "23h49",
+          "height": 9.95
+        }
+      ],
+      "coefficient": [
+        48,
+        43
+      ]
+    },
+    {
+      "date": "22/01/2025",
+      "tides": [
+        {
+          "time": "06h41",
+          "height": 4.47
+        },
+        {
+          "time": "12h05",
+          "height": 9.81
+        },
+        {
+          "time": "19h06",
+          "height": 4.68
+        }
+      ],
+      "coefficient": [
+        39
+      ]
+    },
+    {
+      "date": "23/01/2025",
+      "tides": [
+        {
+          "time": "00h36",
+          "height": 9.46
+        },
+        {
+          "time": "07h32",
+          "height": 4.94
+        },
+        {
+          "time": "13h03",
+          "height": 9.26
+        },
+        {
+          "time": "20h03",
+          "height": 5.11
+        }
+      ],
+      "coefficient": [
+        35,
+        32
+      ]
+    },
+    {
+      "date": "24/01/2025",
+      "tides": [
+        {
+          "time": "01h51",
+          "height": 9.11
+        },
+        {
+          "time": "08h45",
+          "height": 5.22
+        },
+        {
+          "time": "14h32",
+          "height": 8.98
+        },
+        {
+          "time": "21h29",
+          "height": 5.28
+        }
+      ],
+      "coefficient": [
+        31,
+        31
+      ]
+    },
+    {
+      "date": "25/01/2025",
+      "tides": [
+        {
+          "time": "03h25",
+          "height": 9.18
+        },
+        {
+          "time": "10h19",
+          "height": 5.03
+        },
+        {
+          "time": "16h03",
+          "height": 9.23
+        },
+        {
+          "time": "23h01",
+          "height": 4.92
+        }
+      ],
+      "coefficient": [
+        34,
+        37
+      ]
+    },
+    {
+      "date": "26/01/2025",
+      "tides": [
+        {
+          "time": "04h42",
+          "height": 9.7
+        },
+        {
+          "time": "11h37",
+          "height": 4.41
+        },
+        {
+          "time": "17h13",
+          "height": 9.82
+        }
+      ],
+      "coefficient": [
+        43,
+        48
+      ]
+    },
+    {
+      "date": "27/01/2025",
+      "tides": [
+        {
+          "time": "00h08",
+          "height": 4.27
+        },
+        {
+          "time": "05h41",
+          "height": 10.39
+        },
+        {
+          "time": "12h36",
+          "height": 3.68
+        },
+        {
+          "time": "18h09",
+          "height": 10.52
+        }
+      ],
+      "coefficient": [
+        55,
+        61
+      ]
+    },
+    {
+      "date": "28/01/2025",
+      "tides": [
+        {
+          "time": "01h03",
+          "height": 3.6
+        },
+        {
+          "time": "06h31",
+          "height": 11.1
+        },
+        {
+          "time": "13h30",
+          "height": 3
+        },
+        {
+          "time": "18h57",
+          "height": 11.18
+        }
+      ],
+      "coefficient": [
+        67,
+        73
+      ]
+    },
+    {
+      "date": "29/01/2025",
+      "tides": [
+        {
+          "time": "01h55",
+          "height": 2.97
+        },
+        {
+          "time": "07h16",
+          "height": 11.75
+        },
+        {
+          "time": "14h22",
+          "height": 2.4
+        },
+        {
+          "time": "19h42",
+          "height": 11.76
+        }
+      ],
+      "coefficient": [
+        79,
+        84
+      ]
+    },
+    {
+      "date": "30/01/2025",
+      "tides": [
+        {
+          "time": "02h44",
+          "height": 2.41
+        },
+        {
+          "time": "07h58",
+          "height": 12.3
+        },
+        {
+          "time": "15h11",
+          "height": 1.86
+        },
+        {
+          "time": "20h24",
+          "height": 12.23
+        }
+      ],
+      "coefficient": [
+        89,
+        93
+      ]
+    },
+    {
+      "date": "31/01/2025",
+      "tides": [
+        {
+          "time": "03h30",
+          "height": 1.95
+        },
+        {
+          "time": "08h39",
+          "height": 12.71
+        },
+        {
+          "time": "15h57",
+          "height": 1.46
+        },
+        {
+          "time": "21h04",
+          "height": 12.54
+        }
+      ],
+      "coefficient": [
+        96,
+        98
+      ]
+    },
+    {
+      "date": "01/02/2025",
+      "tides": [
+        {
+          "time": "04h13",
+          "height": 1.66
+        },
+        {
+          "time": "09h19",
+          "height": 12.92
+        },
+        {
+          "time": "16h39",
+          "height": 1.28
+        },
+        {
+          "time": "21h43",
+          "height": 12.62
+        }
+      ],
+      "coefficient": [
+        99,
+        98
+      ]
+    },
+    {
+      "date": "02/02/2025",
+      "tides": [
+        {
+          "time": "04h52",
+          "height": 1.64
+        },
+        {
+          "time": "09h57",
+          "height": 12.85
+        },
+        {
+          "time": "17h17",
+          "height": 1.42
+        },
+        {
+          "time": "22h20",
+          "height": 12.45
+        }
+      ],
+      "coefficient": [
+        96,
+        93
+      ]
+    },
+    {
+      "date": "03/02/2025",
+      "tides": [
+        {
+          "time": "05h29",
+          "height": 1.92
+        },
+        {
+          "time": "10h35",
+          "height": 12.51
+        },
+        {
+          "time": "17h52",
+          "height": 1.87
+        },
+        {
+          "time": "22h57",
+          "height": 12.03
+        }
+      ],
+      "coefficient": [
+        89,
+        84
+      ]
+    },
+    {
+      "date": "04/02/2025",
+      "tides": [
+        {
+          "time": "06h03",
+          "height": 2.46
+        },
+        {
+          "time": "11h13",
+          "height": 11.92
+        },
+        {
+          "time": "18h27",
+          "height": 2.56
+        },
+        {
+          "time": "23h37",
+          "height": 11.42
+        }
+      ],
+      "coefficient": [
+        78,
+        71
+      ]
+    },
+    {
+      "date": "05/02/2025",
+      "tides": [
+        {
+          "time": "06h39",
+          "height": 3.15
+        },
+        {
+          "time": "11h57",
+          "height": 11.15
+        },
+        {
+          "time": "19h06",
+          "height": 3.35
+        }
+      ],
+      "coefficient": [
+        64
+      ]
+    },
+    {
+      "date": "06/02/2025",
+      "tides": [
+        {
+          "time": "00h23",
+          "height": 10.68
+        },
+        {
+          "time": "07h26",
+          "height": 3.9
+        },
+        {
+          "time": "12h54",
+          "height": 10.3
+        },
+        {
+          "time": "19h57",
+          "height": 4.13
+        }
+      ],
+      "coefficient": [
+        57,
+        50
+      ]
+    },
+    {
+      "date": "07/02/2025",
+      "tides": [
+        {
+          "time": "01h28",
+          "height": 9.95
+        },
+        {
+          "time": "08h33",
+          "height": 4.52
+        },
+        {
+          "time": "14h20",
+          "height": 9.62
+        },
+        {
+          "time": "21h13",
+          "height": 4.66
+        }
+      ],
+      "coefficient": [
+        46,
+        43
+      ]
+    },
+    {
+      "date": "08/02/2025",
+      "tides": [
+        {
+          "time": "03h07",
+          "height": 9.61
+        },
+        {
+          "time": "10h13",
+          "height": 4.65
+        },
+        {
+          "time": "16h07",
+          "height": 9.65
+        },
+        {
+          "time": "22h56",
+          "height": 4.57
+        }
+      ],
+      "coefficient": [
+        43,
+        46
+      ]
+    },
+    {
+      "date": "09/02/2025",
+      "tides": [
+        {
+          "time": "04h43",
+          "height": 10.01
+        },
+        {
+          "time": "11h51",
+          "height": 4.07
+        },
+        {
+          "time": "17h25",
+          "height": 10.25
+        }
+      ],
+      "coefficient": [
+        50,
+        56
+      ]
+    },
+    {
+      "date": "10/02/2025",
+      "tides": [
+        {
+          "time": "00h21",
+          "height": 3.92
+        },
+        {
+          "time": "05h50",
+          "height": 10.76
+        },
+        {
+          "time": "13h01",
+          "height": 3.28
+        },
+        {
+          "time": "18h24",
+          "height": 10.97
+        }
+      ],
+      "coefficient": [
+        62,
+        68
+      ]
+    },
+    {
+      "date": "11/02/2025",
+      "tides": [
+        {
+          "time": "01h23",
+          "height": 3.2
+        },
+        {
+          "time": "06h42",
+          "height": 11.47
+        },
+        {
+          "time": "13h56",
+          "height": 2.61
+        },
+        {
+          "time": "19h12",
+          "height": 11.57
+        }
+      ],
+      "coefficient": [
+        74,
+        78
+      ]
+    },
+    {
+      "date": "12/02/2025",
+      "tides": [
+        {
+          "time": "02h13",
+          "height": 2.64
+        },
+        {
+          "time": "07h24",
+          "height": 11.99
+        },
+        {
+          "time": "14h42",
+          "height": 2.17
+        },
+        {
+          "time": "19h51",
+          "height": 11.96
+        }
+      ],
+      "coefficient": [
+        82,
+        86
+      ]
+    },
+    {
+      "date": "13/02/2025",
+      "tides": [
+        {
+          "time": "02h54",
+          "height": 2.27
+        },
+        {
+          "time": "08h01",
+          "height": 12.31
+        },
+        {
+          "time": "15h19",
+          "height": 1.93
+        },
+        {
+          "time": "20h24",
+          "height": 12.17
+        }
+      ],
+      "coefficient": [
+        88,
+        89
+      ]
+    },
+    {
+      "date": "14/02/2025",
+      "tides": [
+        {
+          "time": "03h28",
+          "height": 2.05
+        },
+        {
+          "time": "08h32",
+          "height": 12.47
+        },
+        {
+          "time": "15h51",
+          "height": 1.86
+        },
+        {
+          "time": "20h54",
+          "height": 12.25
+        }
+      ],
+      "coefficient": [
+        90,
+        90
+      ]
+    },
+    {
+      "date": "15/02/2025",
+      "tides": [
+        {
+          "time": "03h57",
+          "height": 1.98
+        },
+        {
+          "time": "09h02",
+          "height": 12.5
+        },
+        {
+          "time": "16h18",
+          "height": 1.93
+        },
+        {
+          "time": "21h22",
+          "height": 12.19
+        }
+      ],
+      "coefficient": [
+        89,
+        87
+      ]
+    },
+    {
+      "date": "16/02/2025",
+      "tides": [
+        {
+          "time": "04h23",
+          "height": 2.08
+        },
+        {
+          "time": "09h30",
+          "height": 12.35
+        },
+        {
+          "time": "16h42",
+          "height": 2.19
+        },
+        {
+          "time": "21h48",
+          "height": 11.96
+        }
+      ],
+      "coefficient": [
+        84,
+        80
+      ]
+    },
+    {
+      "date": "17/02/2025",
+      "tides": [
+        {
+          "time": "04h46",
+          "height": 2.36
+        },
+        {
+          "time": "09h56",
+          "height": 12.02
+        },
+        {
+          "time": "17h02",
+          "height": 2.6
+        },
+        {
+          "time": "22h12",
+          "height": 11.57
+        }
+      ],
+      "coefficient": [
+        76,
+        72
+      ]
+    },
+    {
+      "date": "18/02/2025",
+      "tides": [
+        {
+          "time": "05h06",
+          "height": 2.81
+        },
+        {
+          "time": "10h19",
+          "height": 11.51
+        },
+        {
+          "time": "17h21",
+          "height": 3.13
+        },
+        {
+          "time": "22h35",
+          "height": 11.06
+        }
+      ],
+      "coefficient": [
+        67,
+        61
+      ]
+    },
+    {
+      "date": "19/02/2025",
+      "tides": [
+        {
+          "time": "05h29",
+          "height": 3.37
+        },
+        {
+          "time": "10h44",
+          "height": 10.89
+        },
+        {
+          "time": "17h44",
+          "height": 3.74
+        },
+        {
+          "time": "23h00",
+          "height": 10.47
+        }
+      ],
+      "coefficient": [
+        56,
+        49
+      ]
+    },
+    {
+      "date": "20/02/2025",
+      "tides": [
+        {
+          "time": "05h57",
+          "height": 4.03
+        },
+        {
+          "time": "11h14",
+          "height": 10.16
+        },
+        {
+          "time": "18h12",
+          "height": 4.43
+        },
+        {
+          "time": "23h34",
+          "height": 9.78
+        }
+      ],
+      "coefficient": [
+        44,
+        38
+      ]
+    }
+  ]
